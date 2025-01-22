@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/e0mOS4g_)
 # Superjoin Hiring Assignment
 
-### Welcome to Superjoin's hiring assignment! 🚀
+
 
 ### Objective
 Build a solution that enables real-time synchronization of data between a Google Sheet and a specified database (e.g., MySQL, PostgreSQL). The solution should detect changes in the Google Sheet and update the database accordingly, and vice versa.
@@ -57,11 +57,8 @@ Feel free to check the discussions tab, you might get some help there. Check out
 We're available at techhiring@superjoin.ai for all queries. 
 
 All the best ✨.
-
 ## Developer's Section
-*Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
-### Video Link
-  https://www.awesomescreenshot.com/video/32014156?key=2258042699278abfc5f235d6bec7d282
+
 
 ### Approach to the Problem
 For this assignment, I implemented a real-time synchronization solution between Google Sheets and a MySQL database using Node.js and the Google Sheets API. Here’s a brief overview of my approach:
